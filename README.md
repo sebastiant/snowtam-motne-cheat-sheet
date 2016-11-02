@@ -2,7 +2,7 @@
 A concise cheat sheet for decoding MOTNEs and SNOWTAMs. Keep it in your EFB to quickly refresh winterops when needed.
 
 ## Download 
-Available as [pdf](https://github.com/sebastiant/snowtam-motne-cheat-sheet/snowtam-motne-cheat-sheet.pdf), [html](https://github.com/sebastiant/snowtam-motne-cheat-sheet/snowtam-motne-cheat-sheet.html) and [markdown](https://github.com/sebastiant/snowtam-motne-cheat-sheet/snowtam-motne-cheat-sheet.md)
+Available as [pdf](https://sebastiant.github.io/snowtam-motne-cheat-sheet/snowtam-motne-cheat-sheet.pdf), [html](https://sebastiant.github.io/snowtam-motne-cheat-sheet/) and [markdown](https://sebastiant.github.io/snowtam-motne-cheat-sheet/snowtam-motne-cheat-sheet.md)
 
 ## Contributing
 Contributions are welcome: create a pull request
