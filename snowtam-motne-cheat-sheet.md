@@ -1,4 +1,4 @@
-# SNOWTAM & MOTNE Cheat sheet
+<# SNOWTAM & MOTNE Cheat sheet
 
 ### SNOWTAM
 Runways are listed with their lowest numbered threshold. This means that for example reports for RWY29 are to be interpreted from reading RWY11's report, reading RWY thirds backwards.
@@ -99,5 +99,5 @@ As defined by ICAO
 
 ### About
 Source: <https://github.com/sebastiant/snowtam-motne-cheat-sheet>  
-Revision: 1  
+Revision: 2  
 Disclaimer: This document comes with zero guarantees on validity. The information should not be used in aviation, unless confirmed to be correct by authorities and operation manuals. In no event shall the author be held liable for any damages caused by usage of this document. Have a great day!
