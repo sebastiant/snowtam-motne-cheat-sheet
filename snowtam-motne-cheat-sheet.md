@@ -1,14 +1,14 @@
 # SNOWTAM & MOTNE Cheat sheet
 
 ### SNOWTAM
-Runways are listed and reported starting from their lowest numbered threshold. This means that for example reports for RWY29 are to be interpreted from reading RWY11's report, reading RWY thirds backwards.
+Runways are listed with their lowest numbered threshold. This means that for example reports for RWY29 are to be interpreted from reading RWY11's report, reading RWY thirds backwards.
 
 * A) Aerodrome
 * B) Time of issuing: MMDDHHmm (UTC)
 * C) Runways for this report
 * D) Cleared RWY length (if less than published)
 * E) Cleared RWY width (if less than published)
-* F) Contamination for each third  
+* F) Deposits for each third  
 	Listing represents layers from top to bottom, e.g. 67 represents Slush on top of ice
 	* 1 = Damp
  	* 2 = Wet or water patches
@@ -25,7 +25,13 @@ Runways are listed and reported starting from their lowest numbered threshold. T
 If measured: two digits  
 If estimated: one digit
 9 = Unreliable
-If friction was measured, the type of equipment is specified (e.g. GRT for grip tester or RFT for runway friction tester)
+If friction was measured, the type of equipment is specified (e.g. GRT for grip tester or RFT for runway friction tester)  
+* J) Critical snowbanks, listed in form H/DS:
+	* H = height [cm]
+	* D = distance from edge [m]
+	* S = Side, can be L, R or LR
+* K) RWY lights, if obscured. Followed by L, R or LR
+* M) Expected time of further clearance to be completed
 * N) Associated TWY conditions, not divided into thirds
 * T) Clear text
 
