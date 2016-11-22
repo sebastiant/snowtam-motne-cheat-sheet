@@ -1,4 +1,4 @@
-<# SNOWTAM & MOTNE Cheat sheet
+# SNOWTAM & MOTNE Cheat sheet
 
 ### SNOWTAM
 Runways are listed with their lowest numbered threshold. This means that for example reports for RWY29 are to be interpreted from reading RWY11's report, reading RWY thirds backwards.
@@ -34,7 +34,7 @@ If friction was measured, the type of equipment is specified (e.g. GRT for grip 
 * M) Expected time of further clearance to be completed
 * N) Associated TWY conditions, not divided into thirds
 * T) Clear text
-
+<div style="page-break-after: always;"></div>
 ### MOTNE
 8 Digits appended to METAR: *AABCDDEE*
 
@@ -84,6 +84,7 @@ If friction was measured, the type of equipment is specified (e.g. GRT for grip 
 	99 = Unreliable  
 	// = Not reported: **RWY not operational**
 	
+
 ### Contamination definitions
 As defined by ICAO
 
@@ -99,5 +100,5 @@ As defined by ICAO
 
 ### About
 Source: <https://github.com/sebastiant/snowtam-motne-cheat-sheet>  
-Revision: 2  
+Revision: 3  
 Disclaimer: This document comes with zero guarantees on validity. The information should not be used in aviation, unless confirmed to be correct by authorities and operation manuals. In no event shall the author be held liable for any damages caused by usage of this document. Have a great day!
